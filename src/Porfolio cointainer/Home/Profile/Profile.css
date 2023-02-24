@@ -73,6 +73,12 @@
   padding: 18px;
   padding-left: 10px;
 }
+.colz-icon{
+  font-size: 10vw;
+  color: azure;
+  
+  
+}
 .colz.colz-icon i :hover {
   transform: scale(1.5);
 }
